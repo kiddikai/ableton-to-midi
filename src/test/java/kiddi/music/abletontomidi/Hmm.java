@@ -1,3 +1,5 @@
+package kiddi.music.abletontomidi;
+
 import kiddi.music.abletonparser.AbletonParser;
 import kiddi.music.abletonparser.simplemodel.AbletonWrapper;
 import org.junit.Test;

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/abletontomidi.iml" filepath="$PROJECT_DIR$/abletontomidi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ableton-to-midi.iml" filepath="$PROJECT_DIR$/ableton-to-midi.iml" />
     </modules>
   </component>
 </project>

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="abletontomidi" />
+        <module name="ableton-to-midi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="abletontomidi" target="1.5" />
+      <module name="ableton-to-midi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
